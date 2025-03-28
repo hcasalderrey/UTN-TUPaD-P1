@@ -20,3 +20,7 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 > ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
 > ¡Recuerda mantener actualizado tu repositorio!
+
+TPS entregados
+01-Estructuras Secuenciales
+02-Trabajo Colaborativo
