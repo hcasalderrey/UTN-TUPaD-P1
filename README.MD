@@ -26,3 +26,4 @@ TPS entregados (actualizado 30/3/2025)
 02-Trabajo Colaborativo
 03-Estructuras Condicionales
 04-Estructuras Repetitivas
+05-Funciones
