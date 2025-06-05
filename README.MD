@@ -21,11 +21,13 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 > ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
 > ¡Recuerda mantener actualizado tu repositorio!
 
-TPS entregados (actualizado 09/05/2025)
-01-Estructuras Secuenciales
-02-Trabajo Colaborativo
-03-Estructuras Condicionales
-04-Estructuras Repetitivas
-05-Listas (agregado luego)
-05-Funciones
-06-Datos Complejos
+TPS entregados (actualizado 05/06/2025)
+
+- 01-Estructuras Secuenciales
+- 02-Trabajo Colaborativo
+- 03-Estructuras Condicionales
+- 04-Estructuras Repetitivas
+- 05.1-Listas (agregado luego)
+- 05-Funciones
+- 06-Recursividad **(cambiaron el orden despues del primer parcial)**
+- 07-Datos Complejos
